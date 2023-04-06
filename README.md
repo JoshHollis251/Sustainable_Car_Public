@@ -1,9 +1,9 @@
-# Sussycar
+# Sustainable Car
 
 > An innovative suite of sensors and incentives to encourage sustainable
 > and energy efficient driving
 
-Sussycar was a hackathon project that won 1st place at the UARK Spring 2023 Hackathon, with the theme "sustainability and energy efficiency". It is an app that monitors how you drive, and if you drive in a non-eco-friendly way, it donates money from your Venmo to an organization of the developers' choice.
+Sustainable Car, Abv. Sussycar, was a hackathon project that won 1st place at the UARK Spring 2023 Hackathon, with the theme "sustainability and energy efficiency". It is an app that monitors how you drive, and if you drive in a non-eco-friendly way, it donates money from your Venmo to an organization of the developers' choice.
 
 
 
