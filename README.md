@@ -40,3 +40,6 @@ recieverUser = 'your_reciever_username'
 4. run the application from root/hackathon-server using ```python run.py```
 
 5. go to the provided localhost on your web browser to view the application
+
+## other notes
+please note, the previous repository was made private for privacy concerns. If you wish to see that repository email me at joshuahollis608@gmail.com
